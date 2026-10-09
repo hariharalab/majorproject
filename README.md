@@ -1,4 +1,5 @@
-# Smart Portfolio Analysis & Insights Engine
+# Smart Portfolio Analysis rakesh
+
 
 A full-stack multi-broker portfolio intelligence platform built with **React (Vite)** + **FastAPI (Python)**. Connect your Alpaca and Binance accounts to view real-time positions, capital, P&L, and institutional-grade portfolio analytics in one unified interface.
 
